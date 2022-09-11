@@ -1,2 +1,3 @@
-# pizzahouse_updated
- laravel 9
+# pizzahouse website
+ Built with Laravel 9
+ features include a live search facility and form validation

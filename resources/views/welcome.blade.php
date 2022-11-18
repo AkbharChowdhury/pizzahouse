@@ -11,7 +11,7 @@
 
             <div class="title m-b-md">
                 {{ config('app.name') }}
-                the north best pizzas
+                
             </div>
          
             <h2>
@@ -19,7 +19,7 @@
             </h2>
             <p>
 
-                <span><button class="btn btn-warning" onclick="window.location.href='{{ route('products.index') }}'"> search products</button></span>
+                <span><button class="btn btn-warning text-capitalize" onclick="window.location.href='{{ route('products.index') }}'"> search events</button></span>
 
             </p>
             @if (Session::has('message'))

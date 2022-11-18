@@ -1,6 +1,6 @@
-APP_NAME="Mellodian Community Park"
+APP_NAME=pizzahouse
 APP_ENV=local
-APP_KEY=base64:2QqGrRKyLYT8kmIfgyfESGkgJo6tbyaeDV6Sqo+ABAI=
+APP_KEY=base64:/bf9TrMI31fDXT1RwbdoPY/d+AdmNQHPXHuiaz/mm0Q=
 APP_DEBUG=true
 APP_URL=http://localhost
 
@@ -11,7 +11,7 @@ LOG_LEVEL=debug
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3308
-DB_DATABASE=mellodian
+DB_DATABASE=pizzahouse
 DB_USERNAME=root
 DB_PASSWORD=
 
